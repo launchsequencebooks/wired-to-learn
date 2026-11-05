@@ -1,0 +1,24 @@
+name: A program does not run
+description: A listing fails or prints something different from the book
+title: "[Code] Listing "
+labels: ["code"]
+body:
+  - type: input
+    id: listing
+    attributes:
+      label: Listing and file
+      placeholder: "Listing 16.2, code/ch16/transfer.py"
+    validations: {required: true}
+  - type: input
+    id: env
+    attributes:
+      label: Your environment
+      description: Operating system, Python version, PyTorch version
+      placeholder: "Windows 11, Python 3.12.4, PyTorch 2.14.0 (CPU)"
+    validations: {required: true}
+  - type: textarea
+    id: output
+    attributes:
+      label: Full error message or output
+      render: text
+    validations: {required: true}

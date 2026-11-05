@@ -1,0 +1,10 @@
+X + b:
+ [[11. 22. 33.]
+ [14. 25. 36.]]
+standardized:
+ [[-1. -1. -1.]
+ [ 1.  1.  1.]]
+X * col:
+ [[ 1.  2.  3.]
+ [ 8. 10. 12.]]
+error: operands could not be broadcast together with shapes (2,3) (2,) 

@@ -1,0 +1,3 @@
+GET /users/2/recommendations?k=3 -> ['Scream 2 (1997)', 'Full Monty, The (1997)', 'I Know What You Did Last Summer (1997)']
+GET /movies/49/similar?k=3 -> [('Return of the Jedi (1983)', 0.968), ('Empire Strikes Back, The (1980)', 0.924), ('Independence Day (ID4) (1996)', 0.879)]
+GET /users/5000/recommendations -> 404

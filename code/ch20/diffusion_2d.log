@@ -1,0 +1,7 @@
+signal left at t = 199: 0.006
+step 1000  noise-prediction loss 0.194
+step 2000  noise-prediction loss 0.251
+step 3000  noise-prediction loss 0.202
+step 4000  noise-prediction loss 0.179
+mean distance to the nearest real point: generated 0.048, pure noise 0.355, real data 0.014
+coverage: mean distance from each real point to the nearest generated point 0.020

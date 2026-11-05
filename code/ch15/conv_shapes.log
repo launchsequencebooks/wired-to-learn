@@ -1,0 +1,6 @@
+Conv2d(1, 32, 3)               -> output (1, 32, 26, 26)  parameters 320
+Conv2d(1, 32, 3, padding=1)    -> output (1, 32, 28, 28)  parameters 320
+Conv2d(1, 32, 5, stride=2)     -> output (1, 32, 12, 12)  parameters 832
+MaxPool2d(2)                   -> output (1, 1, 14, 14)  parameters 0
+conv layer :          320 parameters
+dense layer:   19,694,080 parameters (61,544x more)

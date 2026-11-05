@@ -1,0 +1,4 @@
+embed_resnet.onnx       1.18 MB   64-number embedding (supervised features)
+embed_simclr.onnx       0.39 MB   128-number embedding (self-supervised features)
+outlier_ae.onnx         1.77 MB   reconstruction error (outlier score)
+outlier_reference.npz  10,000 reference embeddings, threshold 3.97

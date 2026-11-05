@@ -1,0 +1,4 @@
+104,815 log lines, 7,940 blocks, 313 labeled anomalous
+training on 3,081 normal blocks (771 for validation); testing on 3,970 later blocks, 195 anomalous
+11 event types seen in training; a typical normal block, as event ids: [9, 5, 9, 9, 1, 11, 1, 11, 1, 11, 7, 7, 7]
+one log line: Receiving block blk_-1608999687919862906 src: /10.250.19.102:54106 des -> E5

@@ -1,0 +1,7 @@
+source classes: ['T-shirt', 'Trouser', 'Pullover', 'Dress', 'Coat']
+target classes: ['Sandal', 'Shirt', 'Sneaker', 'Bag', 'Ankle boot']
+source task accuracy: 89.46%
+target training images: 100
+from scratch     target test accuracy 81.96%
+frozen features  target test accuracy 76.60%
+fine-tune all    target test accuracy 86.58%

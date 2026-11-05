@@ -1,0 +1,7 @@
+seed 0: student, labels only 90.06%   student, distilled 90.53%
+seed 1: student, labels only 90.20%   student, distilled 90.28%
+seed 2: student, labels only 90.81%   student, distilled 90.55%
+labels only  mean 90.36%  (min 90.06%, max 90.81%)
+distilled    mean 90.45%  (min 90.28%, max 90.55%)
+teacher (ResNet-20)  272,186 params   256 images in  94.1 ms
+student               20,490 params   256 images in  13.2 ms

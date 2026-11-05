@@ -1,0 +1,30 @@
+1,115,394 characters, vocabulary of 65
+parameters: 876,929
+step    0  train 4.183  val 4.183  (6.04 bits/char)  7s
+step  300  train 1.562  val 1.699  (2.45 bits/char)  80s
+step  600  train 1.397  val 1.585  (2.29 bits/char)  141s
+step  900  train 1.330  val 1.543  (2.23 bits/char)  263s
+step 1200  train 1.289  val 1.521  (2.19 bits/char)  323s
+step 1500  train 1.266  val 1.508  (2.18 bits/char)  383s
+
+--- temperature 0.5 ---
+ROMEO:
+I thought the sun that the rest, and they shall be served
+The prince of the crown to the presence.
+
+DUKE VINCENTIO:
+I have proclaim'd thee now not, and my lord;
+And the way of her buttering of a man,
+And the sentence that have here the country,
+Than
+
+--- temperature 1.0 ---
+ROMEO:
+How mames must become, the queen, I spoke ages breathe do well
+Thereof I'll perceive for that not stribles friends,
+That were the woolsome word of citizens,
+None of the curse or stnight-policy with dinning
+Put both in him unwagarent.'
+
+WARWICK:
+Thou

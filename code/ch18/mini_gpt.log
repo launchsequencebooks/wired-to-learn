@@ -1,0 +1,32 @@
+1,115,394 characters, vocabulary of 65
+parameters: 822,849
+step    0  train 4.301  val 4.305  (6.21 bits/char)  4s
+step  300  train 2.143  val 2.181  (3.15 bits/char)  122s
+step  600  train 1.806  val 1.922  (2.77 bits/char)  217s
+step  900  train 1.661  val 1.810  (2.61 bits/char)  311s
+step 1200  train 1.577  val 1.760  (2.54 bits/char)  406s
+step 1500  train 1.555  val 1.730  (2.50 bits/char)  505s
+
+--- temperature 0.5 ---
+ROMEO:
+As lord shall a not be the sun of the noble court
+The can here hand the dreath and man's press
+As it this compure a mean
+To confers and the flancely the fallown of the
+Such of hear shall mear than the means down him.
+
+First Citizen:
+I was that will 
+
+--- temperature 1.0 ---
+ROMEO:
+He king and were could to souch, by the must-s bring.
+
+KING EDWARD IV:
+I'll heard plovoce make faist.
+
+MERMIOPUS:
+Pe mercitty,-hone, henow word yell be.
+Who was up it this this artnight?
+Heim, will done a man your gifine
+Mung breee help saince with 

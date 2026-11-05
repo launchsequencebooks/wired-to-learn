@@ -1,0 +1,2 @@
+bag of embeddings    239,053 params   intent accuracy 89.22%, macro-F1 0.893, team accuracy 96.07%  (7s)
+Transformer          599,117 params   intent accuracy 87.05%, macro-F1 0.871, team accuracy 95.36%  (235s)

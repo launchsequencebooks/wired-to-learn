@@ -1,0 +1,28 @@
+# datasets are downloaded on first use
+code/data/
+# regenerated figures
+figures/
+# large or unsafe-to-share build artifacts (published as release assets instead)
+*.pkl
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+wtl-env/
+.venv/
+venv/
+# editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# trained weights are published as release assets (scripts/fetch_artifacts.py), not committed
+*.pt
+# local working folders, never published
+_to_delete_WTL-review/
+Claude outputs/
+# release assets (scripts/fetch_artifacts.py), not committed
+code/ch30/outlier_reference.npz
+code/ch31/ticket_index.npz
+code/ch35/passage_vectors.npy

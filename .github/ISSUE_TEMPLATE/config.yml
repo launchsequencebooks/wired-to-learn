@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask a question
+    url: https://github.com/launchsequencebooks/wired-to-learn/discussions
+    about: Questions about the ideas, the code or your own experiments
+  - name: Get the book
+    url: https://launchsequencebooks.com/wired-to-learn
+    about: Paperback, PDF and ebook editions

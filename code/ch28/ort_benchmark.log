@@ -1,0 +1,4 @@
+PyTorch (eager)    test accuracy 92.79%   1 image  1.14 ms   batch 256   2328 img/s
+ONNX Runtime fp32  test accuracy 92.79%   1 image  0.26 ms   batch 256  10106 img/s
+ONNX Runtime int8  test accuracy 92.87%   1 image  0.31 ms   batch 256  12127 img/s
+PyTorch (compiled) test accuracy 92.79%   1 image  0.84 ms   batch 256   3268 img/s

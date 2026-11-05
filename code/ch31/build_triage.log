@@ -1,0 +1,7 @@
+ensemble on 3,080 test tickets: intent accuracy 90.45%, team accuracy 97.14%
+routing for 99% team accuracy: threshold 0.571, 91.7% routed automatically at 99.36%; 255 tickets to a dispatcher
+most frequent intent mix-ups (true -> predicted):
+   5 x  unable_to_verify_identity -> verify_my_identity
+   4 x  fiat_currency_support -> exchange_via_app
+   4 x  pending_top_up -> top_up_failed
+   4 x  transfer_not_received_by_recipient -> balance_not_updated_after_bank_transfer

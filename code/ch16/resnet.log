@@ -1,0 +1,5 @@
+Plain-8    parameters   77,754  output (2, 10)
+ResNet-8   parameters   77,754  output (2, 10)
+Plain-20   parameters  272,186  output (2, 10)
+ResNet-20  parameters  272,186  output (2, 10)
+block keeps shape: (4, 16, 28, 28) | downsampling block: (4, 32, 14, 14)

@@ -1,0 +1,4 @@
+seasonal naive (last week)   MAE  72.8 rentals/hour   80% interval contains the truth     --
+MLP (quantiles, 7s)          MAE  55.5 rentals/hour   80% interval contains the truth  75.0%
+GRU (quantiles, 113s)        MAE  44.0 rentals/hour   80% interval contains the truth  74.1%
+worst GRU days: 2012-11-21, 2012-11-22, 2012-11-06

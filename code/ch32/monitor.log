@@ -1,0 +1,4 @@
+replayed 51,109 log lines (5,593 lines/s); 101 alerts, 77 on anomalous blocks (77/195 anomalous blocks caught)
+median position of the alerting line within its block: event 4
+ALERT 204217 blk_1344575558593443180: E7 'writeBlock blk_1344575558593443180 received exception java.i...' (expected one of ['E5', 'E22', 'E11'])
+ALERT 204221 blk_-2195201456641508025: E7 'writeBlock blk_-2195201456641508025 received exception java....' (expected one of ['E5', 'E22', 'E11'])

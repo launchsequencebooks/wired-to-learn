@@ -1,0 +1,9 @@
+epoch  2  contrastive loss 4.709  (93s)
+epoch  4  contrastive loss 4.593  (240s)
+epoch  6  contrastive loss 4.552  (428s)
+epoch  8  contrastive loss 4.530  (691s)
+
+ labels per class         random features         SimCLR features
+               10    62.98% (61.6%-65.8%)    71.15% (68.3%-72.4%)
+              100    77.34% (76.9%-77.7%)    81.09% (80.9%-81.4%)
+             1000                  81.05%                  84.34%

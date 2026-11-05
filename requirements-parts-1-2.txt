@@ -1,0 +1,5 @@
+# Parts I-II (Chapters 1-9): NumPy only
+numpy>=2.0
+matplotlib>=3.8
+scikit-learn>=1.4
+pillow>=10        # Listing 9.5 (predict_digit.py) reads your own image

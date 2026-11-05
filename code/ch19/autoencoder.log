@@ -1,0 +1,6 @@
+epoch  5  reconstruction MSE 0.0176
+epoch 10  reconstruction MSE 0.0132
+epoch 15  reconstruction MSE 0.0116
+test reconstruction MSE 0.0115  (784 pixels -> 16 numbers: 49x compression)
+code of the first test digit: [  3.   -8.1  -5.5  -6.4   0.8  -5.3   6.    1.  -15.  -10.6   3.6  -4.6
+  -3.2   1.7  -9.8  -3. ]

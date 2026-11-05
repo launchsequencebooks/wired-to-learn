@@ -1,0 +1,7 @@
+hidden state matches: True
+cell state matches:   True
+gate values for example 1:
+  input i  [0.37 0.61 0.64 0.33]
+  forget f [0.43 0.59 0.7  0.43]
+  output o [0.72 0.38 0.39 0.64]
+LSTM parameters: 144 vs RNN cell: 36

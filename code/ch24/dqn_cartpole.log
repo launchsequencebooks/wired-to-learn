@@ -1,0 +1,7 @@
+episodes   1- 50: average return   26.5  (epsilon 0.83, best check  97.8, 0s)
+episodes  51-100: average return   22.3  (epsilon 0.70, best check  97.8, 1s)
+episodes 101-150: average return   89.3  (epsilon 0.14, best check 304.8, 5s)
+episodes 151-200: average return  145.2  (epsilon 0.02, best check 304.8, 11s)
+episodes 201-250: average return  110.1  (epsilon 0.02, best check 304.8, 16s)
+episodes 251-300: average return  146.2  (epsilon 0.02, best check 304.8, 24s)
+greedy policy over 20 test episodes: mean 265.9, min 186, max 404

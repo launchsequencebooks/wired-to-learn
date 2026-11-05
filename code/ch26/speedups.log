@@ -1,0 +1,8 @@
+baseline (batch 128)        684 img/s   1.00x
+batch 32                    735 img/s   1.07x
+batch 512                   604 img/s   0.88x
+1 thread instead of 2       376 img/s   0.55x
+channels_last               862 img/s   1.26x
+bfloat16 autocast        skipped (RuntimeError)
+torch.compile               727 img/s   1.06x
+compile + channels_last     768 img/s   1.12x

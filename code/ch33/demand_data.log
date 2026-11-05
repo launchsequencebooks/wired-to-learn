@@ -1,0 +1,6 @@
+17,544 hours from 2011-01-01 to 2012-12-31 (165 unrecorded hours, counted as 0 rentals)
+110 of the 165 unrecorded hours are between midnight and 5 a.m.; 4 days are missing 12 hours or more
+average rentals per hour: 2011 142, 2012 233
+train      forecasts made at midnight:  540  (and 12,937 when made at every hour)
+validation forecasts made at midnight:   92  (and 2,185 when made at every hour)
+test       forecasts made at midnight:   92  (and 2,185 when made at every hour)

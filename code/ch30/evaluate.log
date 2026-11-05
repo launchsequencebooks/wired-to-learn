@@ -1,0 +1,7 @@
+albums: Review 391, Sandal 202, Trouser 195, Sneaker 182, Bag 182, Ankle boot 166, Pullover 164, Coat 149, Dress 148, T-shirt 123, Not clothing? 103, Shirt 95
+clothes filed automatically 79.5%, of which correctly tagged 98.62%
+digits caught as 'Not clothing?' 80/100, clothes wrongly flagged 23/2000
+what the classifier alone says about the digits: 35% tagged with over 91% confidence, e.g. as 'Sandal', 'Sandal', 'Dress'
+embed_resnet.onnx  'find similar': 90.8% of the top 5 are the same kind of garment
+embed_simclr.onnx  'find similar': 72.7% of the top 5 are the same kind of garment
+duplicates: a shifted, darkened copy has cosine 0.994 to its original; 14% of photos have a *different* photo at least that close

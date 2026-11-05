@@ -1,0 +1,14 @@
+1,115,394 characters, vocabulary of 65
+Alice: 144,445 characters (130,000 train / 14,445 validation)
+pretrained model, before any Alice training: Alice val 2.173 | Shakespeare val 1.735
+
+method              trainable  Alice val  Shakespeare val   time
+from scratch          822,849      1.571            2.592    78s
+full fine-tuning      822,849      1.510            2.196    76s
+LoRA (r=8)             97,345      1.563            2.312    71s
+  adapter off                      2.173            1.735
+
+LoRA model writes:
+Alice to manage of the on the sends, serpent of
+them! Oh! While steep and her when hat him a chand with to that went her to growl of
+the can't way gard get what the child on the whreeked all villing to see

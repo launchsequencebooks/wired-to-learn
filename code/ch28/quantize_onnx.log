@@ -1,0 +1,3 @@
+DequantizeLinear x77, QuantizeLinear x33, Conv x21, Add x9
+resnet20.onnx        1.19 MB
+resnet20_int8.onnx   0.38 MB

@@ -1,0 +1,11 @@
+  0% of weights removed   test accuracy 92.79%
+ 30% of weights removed   test accuracy 92.92%
+ 50% of weights removed   test accuracy 92.44%
+ 70% of weights removed   test accuracy 80.33%
+ 80% of weights removed   test accuracy 45.63%
+ 90% of weights removed   test accuracy 10.17%
+ 95% of weights removed   test accuracy 10.00%
+ 70% removed, fine-tuned   test accuracy 92.69%   (weights that are zero: 70.0%)
+ 90% removed, fine-tuned   test accuracy 91.99%   (weights that are zero: 90.0%)
+ 95% removed, fine-tuned   test accuracy 89.67%   (weights that are zero: 95.0%)
+inference, 256 images: dense 102 ms, 95%-pruned 102 ms

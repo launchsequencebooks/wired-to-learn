@@ -1,0 +1,11 @@
+32-bit floats          test accuracy 92.79%   weights 1057 KB
+8-bit, per-tensor    test accuracy 92.88%   weights 264 KB
+6-bit, per-tensor    test accuracy 92.97%   weights 198 KB
+4-bit, per-tensor    test accuracy 91.69%   weights 132 KB
+3-bit, per-tensor    test accuracy 86.37%   weights 99 KB
+2-bit, per-tensor    test accuracy 15.42%   weights 66 KB
+8-bit, per-channel   test accuracy 92.78%   weights 264 KB
+6-bit, per-channel   test accuracy 92.91%   weights 198 KB
+4-bit, per-channel   test accuracy 92.82%   weights 132 KB
+3-bit, per-channel   test accuracy 91.50%   weights 99 KB
+2-bit, per-channel   test accuracy 64.98%   weights 66 KB

@@ -1,0 +1,14 @@
+# .github/workflows/model-ci.yml: run on every change to the code, the data or the model
+name: model-ci
+on: [push, pull_request]
+jobs:
+  test-and-gate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -r requirements.txt pytest
+      - run: python run_tests.py              # unit, behavioral and slice tests: any failure blocks the release
+      - run: python calibration.py            # report calibration alongside accuracy
+      - run: python registry.py               # register the candidate; promote only if the gates pass

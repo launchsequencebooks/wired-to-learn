@@ -1,0 +1,8 @@
+epoch  5  test loss 151.2 = reconstruction 145.3 + KL 5.92  (per image)
+epoch 10  test loss 146.0 = reconstruction 139.6 + KL 6.35  (per image)
+epoch 15  test loss 143.8 = reconstruction 137.2 + KL 6.59  (per image)
+epoch 20  test loss 142.0 = reconstruction 135.1 + KL 6.85  (per image)
+test digit 7: latent mean (+0.23, +3.05)
+test digit 2: latent mean (+0.62, -0.51)
+test digit 1: latent mean (-2.21, -0.31)
+generated (8, 784) new images from random latent points

@@ -1,0 +1,20 @@
+parameters: 134,975,808 total, 460,800 trainable (0.34%)
+before: Alice was beginning to get very tired, and the other woman was
+quite angry and wanted to get in a fight.
+
+"That's not the case!" Mary said, as the two women stood back from
+the door and watched them go.
+
+"Well, no
+step   1  loss 3.068  1s
+step  25  loss 3.245  18s
+step  50  loss 3.085  37s
+step  75  loss 2.878  55s
+step 100  loss 2.956  72s
+100 LoRA steps on a 135M-parameter model: 72s
+after:  Alice was beginning to get very tired, and the Mouse was busily working in one of his
+paddle-chairs, when she heard the voice of the King.
+
+'What is it?' she asked, in a rather confused way.
+
+'A new game!'

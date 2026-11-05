@@ -1,0 +1,2 @@
+device: cpu; output (64, 10) on cpu
+back on the CPU as NumPy: (64, 10)

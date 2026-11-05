@@ -1,0 +1,3 @@
+seed 0: 1,000 labeled images 81.58%   teacher-labeled 50,000 images 90.28%
+seed 1: 1,000 labeled images 81.90%   teacher-labeled 50,000 images 90.00%
+seed 2: 1,000 labeled images 81.23%   teacher-labeled 50,000 images 90.39%

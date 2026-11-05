@@ -1,0 +1,6 @@
+final epoch, mean +/- std over 3 seeds (time per seed)
+network                train loss             val acc    time
+Plain-8         0.3185 +/- 0.0050    87.31% +/- 0.05%     48s
+ResNet-8        0.3376 +/- 0.0009    84.39% +/- 1.63%     80s
+Plain-20        0.3545 +/- 0.0079    85.44% +/- 0.05%    124s
+ResNet-20       0.2941 +/- 0.0159    88.58% +/- 0.74%    126s

@@ -1,0 +1,4 @@
+median error: digits 0.0104, clothes 0.0905
+threshold (99th percentile of validation digits): 0.0331
+digits flagged as anomalies : 1.0%
+clothes flagged as anomalies: 91.4%

@@ -1,0 +1,12 @@
+{
+ "8-tensor": 0.9288,
+ "6-tensor": 0.9297,
+ "4-tensor": 0.9169,
+ "3-tensor": 0.8637,
+ "2-tensor": 0.1542,
+ "8-channel": 0.9278,
+ "6-channel": 0.9291,
+ "4-channel": 0.9282,
+ "3-channel": 0.915,
+ "2-channel": 0.6498
+}

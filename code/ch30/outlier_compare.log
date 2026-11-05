@@ -1,0 +1,4 @@
+1 - classifier confidence  AUC 0.818   digits caught  11.8%   clothes flagged 0.4%
+autoencoder error          AUC 0.983   digits caught  66.8%   clothes flagged 1.1%
+distance to nearest known  AUC 0.964   digits caught  49.2%   clothes flagged 0.9%
+both combined              AUC 0.993   digits caught  80.6%   clothes flagged 1.1%

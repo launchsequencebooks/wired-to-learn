@@ -1,0 +1,1 @@
+{"from scratch": {"params": 822849, "alice": 1.570603891213735, "shakespeare": 2.5920246839523315}, "full fine-tuning": {"params": 822849, "alice": 1.509524651368459, "shakespeare": 2.1956350406010947}, "LoRA (r=8)": {"params": 97345, "alice": 1.5628987431526185, "shakespeare": 2.3116828123728435}}

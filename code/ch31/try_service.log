@@ -1,0 +1,13 @@
+'I bought something in a shop yesterday and was charged two times for it'
+  -> Payments & disputes / transaction_charged_twice (confidence 0.868, auto)
+     similar: 'There is a payment that I was charged two times for.'
+'my phone got stolen at the train station and the app is on it'
+  -> Fraud & security / lost_or_stolen_phone (confidence 0.945, auto)
+     similar: 'I lost my phone and need help protecting it.'
+'How long does it take for money I send to Germany to arrive?'
+  -> Transfers / card_delivery_estimate (confidence 0.426, human)
+     similar: 'how long does it take for a transfer to arrive'
+'hi, can you help me'
+  -> Transfers / failed_transfer (confidence 0.323, human)
+     similar: 'Can you please help me in canceling my order.'
+empty ticket -> 422

@@ -1,0 +1,6 @@
+ResNet-20 parameters: 272,186
+epoch   2  loss 0.3762  val_loss 0.5319  val_acc 81.89%  (71.1s)
+epoch   4  loss 0.2816  val_loss 0.3074  val_acc 88.95%  (69.3s)
+epoch   6  loss 0.2363  val_loss 0.2234  val_acc 91.85%  (69.4s)
+epoch   8  loss 0.1838  val_loss 0.1841  val_acc 93.27%  (75.0s)
+test accuracy: 92.79%

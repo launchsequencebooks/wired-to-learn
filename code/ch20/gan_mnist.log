@@ -1,0 +1,8 @@
+epoch  1  D loss 1.221  G loss 1.393  D(real) 0.45  D(fake) 0.32
+epoch  5  D loss 1.096  G loss 1.049  D(real) 0.68  D(fake) 0.40
+epoch 10  D loss 1.122  G loss 1.307  D(real) 0.54  D(fake) 0.31
+epoch 15  D loss 1.187  G loss 1.556  D(real) 0.40  D(fake) 0.22
+epoch 20  D loss 1.210  G loss 0.942  D(real) 0.60  D(fake) 0.42
+epoch 25  D loss 1.253  G loss 1.124  D(real) 0.48  D(fake) 0.32
+epoch 30  D loss 1.300  G loss 1.039  D(real) 0.48  D(fake) 0.34
+nearest training image, mean L2 distance 10.14 (real-to-real: 8.16)

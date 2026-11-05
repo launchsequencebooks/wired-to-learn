@@ -1,0 +1,4 @@
+model alone: test accuracy 92.87% on 100% of items
+target 98.0%: threshold 0.825 -> automated 86.1% of test items at 97.78% accuracy; 1,392 sent to a person
+target 99.0%: threshold 0.906 -> automated 80.2% of test items at 98.68% accuracy; 1,985 sent to a person
+target 99.5%: threshold 0.967 -> automated 71.2% of test items at 99.48% accuracy; 2,885 sent to a person

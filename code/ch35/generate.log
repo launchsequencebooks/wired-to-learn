@@ -1,0 +1,16 @@
+Q: What is the vanishing gradient problem?
+A: The vanishing gradient problem is a significant issue in deep neural network training where the gradient of the loss function with respect to the parameters becomes very small or almost zero over time, leading to slow convergence and poor performance. This occurs because the activation values of the neurons in deeper layers tend to be close to zero, causing the gradients to diminish rapidly.
+   (5.2 s)
+
+Q: Why use a validation set?
+A: To measure performance on data the weights have not seen.
+   (2.1 s)
+
+Q: How do I bake sourdough bread?
+A: The book does not cover this.
+   (1.8 s)
+
+Q: What is the capital of Australia?
+A: The book does not cover this.
+   (1.9 s)
+

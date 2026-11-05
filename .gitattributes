@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.bat text eol=crlf
+*.onnx binary
+*.png binary
+*.pdf binary
+# keep expected-output logs out of GitHub's language statistics
+*.log linguist-generated=true
+*.json linguist-generated=true

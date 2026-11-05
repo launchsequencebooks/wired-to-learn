@@ -1,0 +1,9 @@
+{
+ "baseline (batch 128)": 683.7758422476375,
+ "batch 32": 734.9276670277304,
+ "batch 512": 604.1851147680467,
+ "1 thread instead of 2": 376.30407368292987,
+ "channels_last": 862.2806447370546,
+ "torch.compile": 726.9109238929669,
+ "compile + channels_last": 767.9579159098416
+}

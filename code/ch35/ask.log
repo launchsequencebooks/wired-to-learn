@@ -1,0 +1,16 @@
+Q: What is the vanishing gradient problem?
+A: This vanishing gradient problem is a big part of why deep networks were considered untrainable before about 2010. Three are cheap and revealing: Gradient norms per layer.
+   sources: Chapter 4, "Vanishing gradients"; Chapter 14, "Watching training from the inside"  (match 4.24)
+
+Q: Why use a validation set?
+A: We use it to compare architectures, choose learning rates and decide when to stop training. Checking test accuracy after every experiment, and keeping whatever does best, quietly turns the test set into a second validation set.
+   sources: Chapter 9, "Three datasets, three jobs"  (match 3.47)
+
+Q: How do I bake sourdough bread?
+A: I could not find this in the book.
+   sources: -  (match 0.0)
+
+Q: What is the capital of Australia?
+A: Ask it "What is the capital of Jordan?" and it may continue with another question, as such questions often appear in lists. Instruction tuning (also called supervised fine-tuning, SFT) is fine-tuning on many examples of instructions paired with good responses, formatted consistently: The loss is the same next-token cross-entropy as in pretraining, usually computed only on the response tokens.
+   sources: Chapter 25, "Instruction tuning"  (match 2.8)
+

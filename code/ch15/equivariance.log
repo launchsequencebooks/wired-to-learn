@@ -1,0 +1,2 @@
+conv(shift(x)) vs shift(conv(x)): max difference 0.0e+00
+after a 1-pixel shift, 98% of max-pooled outputs are unchanged

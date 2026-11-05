@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the book."
+title: "Wired to Learn: Companion Code"
+authors:
+  - family-names: Maaita
+    given-names: Adi
+license: MIT
+repository-code: "https://github.com/launchsequencebooks/wired-to-learn"
+url: "https://launchsequencebooks.com/wired-to-learn"
+preferred-citation:
+  type: book
+  title: "Wired to Learn: From Your First Neuron to Intelligent Applications"
+  authors:
+    - family-names: Maaita
+      given-names: Adi
+  collection-title: "Launch Sequence"
+  year: 2026
+  url: "https://launchsequencebooks.com/wired-to-learn"

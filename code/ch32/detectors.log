@@ -1,0 +1,6 @@
+195 anomalous test blocks; 68 have exactly the events, in exactly the order, of a normal training block
+(best possible recall 0.651 from order, 0.605 from counts alone)
+LSTM next-event (top-3)              precision 0.825  recall 0.605  F1 0.698  (143 blocks flagged)
+autoencoder on event counts          precision 0.975  recall 0.605  F1 0.747  (121 blocks flagged)
+rule: any event unseen in training   precision 0.975  recall 0.395  F1 0.562  (79 blocks flagged)
+254 test blocks were still active in the last 2,000 lines; 1 of the LSTM's false alarms are among them

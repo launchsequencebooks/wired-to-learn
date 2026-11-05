@@ -1,0 +1,11 @@
+x: [1. 2. 3.] shape (3,)
+W:
+ [[0. 1. 2.]
+ [3. 4. 5.]] shape (2, 3) dtype float64
+W[1, 2] = 5.0   row 0: [0. 1. 2.]   column 1: [1. 4.]
+x > 1.5 -> [False  True  True]   x[x > 1.5] -> [2. 3.]
+element-wise x * x: [1. 4. 9.]
+matrix-vector W @ x: [ 8. 26.]
+sum of all: 15.0  column sums: [3. 5. 7.]  row means: [1. 4.]
+random normals: [ 0.126 -0.132  0.64 ]
+after changing the view, W[0, 0] = 99.0 (use .copy() to avoid this)

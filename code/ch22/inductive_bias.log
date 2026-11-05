@@ -1,0 +1,5 @@
+model       pixels   params  test acc
+MLP         normal  203,530    94.89%
+MLP       shuffled  203,530    95.06%
+CNN         normal   50,186    98.06%
+CNN       shuffled   50,186    93.21%

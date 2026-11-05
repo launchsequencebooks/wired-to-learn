@@ -1,0 +1,8 @@
+{'train': 2890, 'val': 365, 'test': 365} windows of 30 days
+model                            test MAE (deg C)
+persistence (tomorrow = today)              2.025
+7-day average                               2.037
+MLP on the window                           1.770
+RNN                                         1.730
+LSTM                                        1.725
+GRU                                         1.719

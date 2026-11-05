@@ -1,0 +1,4 @@
+GET /health -> {'status': 'ok', 'model': 'resnet20-int8-v1'}
+true label 'Ankle boot' -> {'label': 'Ankle boot', 'confidence': 0.9948, 'top3': [{'label': 'Ankle boot', 'p': 0.9948}, {'label': 'Sneaker', 'p': 0.0041}, {'label': 'Sandal', 'p': 0.0008}]}
+not an image -> 400 {'detail': 'the upload is not an image'}
+500 requests: accuracy 94.6%, latency p50 2.8 ms, p95 4.8 ms, p99 6.1 ms

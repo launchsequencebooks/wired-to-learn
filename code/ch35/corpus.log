@@ -1,0 +1,3 @@
+504 passages, 38,205 words, from 28 chapters
+passage 200 (Chapter 12, 'Signals in deep networks'):
+  Every layer multiplies its input by a weight matrix. If each layer, on average, makes the signal a little larger, then after many layers it explodes; if each makes it a little smaller, it vanishes. The same happens to gradients fl...

@@ -1,0 +1,7 @@
+parameters: 468,010
+epoch   2  loss 0.1401  val_loss 0.3054  val_acc 90.81%  (90.2s)
+epoch   4  loss 0.0879  val_loss 0.0397  val_acc 98.81%  (47.1s)
+epoch   6  loss 0.0576  val_loss 0.0275  val_acc 99.22%  (45.9s)
+epoch   8  loss 0.0363  val_loss 0.0205  val_acc 99.42%  (45.4s)
+epoch  10  loss 0.0258  val_loss 0.0176  val_acc 99.52%  (45.5s)
+test accuracy: 99.59%  (test error 0.41%, 41 of 10,000 digits wrong)

@@ -1,0 +1,6 @@
+episodes   1-100: average return   30.3  (1s)
+episodes 101-200: average return   74.5  (2s)
+episodes 201-300: average return  185.6  (6s)
+episodes 301-400: average return  294.9  (13s)
+episodes 401-500: average return  380.9  (21s)
+episodes 501-600: average return  408.7  (30s)

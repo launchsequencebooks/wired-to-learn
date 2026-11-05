@@ -1,0 +1,7 @@
+SYSTEM: You answer questions about the book 'Wired to Learn'. Use ONLY the numbered passages provided. Cite the passages you use like [1]. If the passages do not contain the answer, say 'The book does not cover this.' Do not use outside knowledge.
+
+USER: Passages:
+
+[1] (Chapter 25, "Instruction tuning")
+A pretrained language model continues text. Ask it "What is the capital of Jordan?" and it may continue with another question, as such questions often appear in lists. Instruction tuning (also called supervised fine-tuning, SFT) is fine-tuning on many examples of instructions paired with good responses, formatted consistently: The loss is the same next-token cross-entropy as in pretraining, usually computed only on the response tokens. After tens of thousands of suc...
+[252 words in total]

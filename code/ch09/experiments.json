@@ -1,0 +1,64 @@
+[
+ {
+  "name": "1 hidden layer, 32 units",
+  "acc": 0.9619,
+  "loss": 0.13587122738852941,
+  "params": 25450
+ },
+ {
+  "name": "1 hidden layer, 128 units",
+  "acc": 0.9761,
+  "loss": 0.08962070750221993,
+  "params": 101770
+ },
+ {
+  "name": "1 hidden layer, 512 units",
+  "acc": 0.9773,
+  "loss": 0.07687391928800527,
+  "params": 407050
+ },
+ {
+  "name": "2 hidden layers, 256-128",
+  "acc": 0.9771,
+  "loss": 0.07968918894633417,
+  "params": 235146
+ },
+ {
+  "name": "without momentum",
+  "acc": 0.9548,
+  "loss": 0.16111902830949762,
+  "params": 235146
+ },
+ {
+  "name": "without momentum, lr 0.5",
+  "acc": 0.9767,
+  "loss": 0.08911664371182323,
+  "params": 235146
+ },
+ {
+  "name": "learning rate 0.5",
+  "acc": 0.1064,
+  "loss": 2.31643271030892,
+  "params": 235146
+ },
+ {
+  "name": "batch size 16",
+  "acc": 0.9577,
+  "loss": 0.18928051702322587,
+  "params": 235146
+ },
+ {
+  "name": "batch size 512",
+  "acc": 0.9714,
+  "loss": 0.09906223111307495,
+  "params": 235146
+ },
+ {
+  "name": "baseline, 3 seeds",
+  "acc": [
+   0.9771,
+   0.9767,
+   0.9749
+  ]
+ }
+]

@@ -1,0 +1,29 @@
+name: Errata report
+description: A mistake in the book's text, a figure or a listing
+title: "[Errata] Ch. "
+labels: ["errata"]
+body:
+  - type: input
+    id: location
+    attributes:
+      label: Where is it?
+      description: Chapter, page, and listing or figure number
+      placeholder: "Chapter 7, page 142, Listing 7.3"
+    validations: {required: true}
+  - type: dropdown
+    id: format
+    attributes:
+      label: Which edition are you reading?
+      options: [Paperback, PDF / ebook, Kindle, Other]
+    validations: {required: true}
+  - type: textarea
+    id: what
+    attributes:
+      label: What is wrong, and what should it say?
+    validations: {required: true}
+  - type: checkboxes
+    id: credit
+    attributes:
+      label: Credit
+      options:
+        - label: Please credit me by my GitHub name in ERRATA.md

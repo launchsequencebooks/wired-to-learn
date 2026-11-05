@@ -1,0 +1,3 @@
+most popular             HR@10 0.086  NDCG@10 0.045
+matrix factorization     HR@10 0.117  NDCG@10 0.055   (best validation HR@10 0.127)
+MF + genres              HR@10 0.115  NDCG@10 0.059   (best validation HR@10 0.130)

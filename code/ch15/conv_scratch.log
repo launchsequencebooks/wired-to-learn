@@ -1,0 +1,5 @@
+digit label: 5 | image shape: (28, 28)
+vertical edges   output (28, 28)  range [-3.92, +3.72]  max diff vs PyTorch 0.0e+00
+horizontal edges output (28, 28)  range [-3.97, +3.97]  max diff vs PyTorch 0.0e+00
+blur             output (28, 28)  range [+0.00, +0.97]  max diff vs PyTorch 2.2e-16
+stride 2, no padding: (13, 13)

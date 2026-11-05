@@ -1,0 +1,4 @@
+ labels per class  supervised from scratch
+               10     67.32% (59.7%-69.9%)
+              100     78.05% (75.4%-79.5%)
+             1000                   85.89%

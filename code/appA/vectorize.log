@@ -1,0 +1,2 @@
+same result: True
+Python loops 64 ms, NumPy 0.59 ms (about 109x faster)

@@ -1,0 +1,8 @@
+neuron at 21.5 degrees
+layers: [784, 256, 128, 10, 5] first: 784 last two: [10, 5]
+  lr = 0.1
+  epochs = 20
+  batch_size = 64
+squares: [0, 1, 4, 9, 16]
+relu(-2) = 0.0  relu(3) = 3
+counter: 6

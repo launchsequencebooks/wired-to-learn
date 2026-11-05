@@ -1,0 +1,13 @@
+episode    1: average return of last   1 episodes -25.70
+episode  500: average return of last 100 episodes   5.32
+episode 1000: average return of last 100 episodes   8.29
+episode 2000: average return of last 100 episodes   8.62
+
+greedy policy (arrows), walls #, goal G, trap X:
+  > > > v # v < > v
+  v # # v # v # # v
+  > > > v # v v # v
+  ^ # > > > > v # v
+  ^ # ^ # # # v # G
+  ^ > ^ X > > > > ^
+greedy path from S reaches G in 14 steps

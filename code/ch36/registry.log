@@ -3,7 +3,7 @@ v2 gates: {'accuracy': True, 'every class': True} -> production is v2
 
 # Model card: clothing classifier v2
 - File hash: 6702b806fec5; size 0.38 MB. ResNet-20, int8 static quantization (Chapter 28).
-- Trained on fashion-mnist (data hash 3aede38d6186), code commit unknown.
+- Trained on fashion-mnist (data hash 3aede38d6186), code commit 010db9e.
 - Intended use: tagging product photos of 10 garment types (28x28 grayscale).
 - Test accuracy 92.87%; weakest class: Shirt (78.2%).
 - Known limitations: confident on blank and non-garment images (use an outlier detector);
